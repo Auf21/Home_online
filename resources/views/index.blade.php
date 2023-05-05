@@ -23,9 +23,10 @@
             </a>
             <nav>
                 <i class="fas fa-bars toggle-menu"></i>
+               
                 <ul>
                     <li><a class="active" href="#">Home</a></li>
-                    <li><a href="#">Service</a></li>
+                    <li><a href="#">service</a></li>
                     <li><a href="#">Portfolio</a></li>
                     <li><a href="#">About</a></li>
                     <li><a href="#">Pricing</a></li>
@@ -34,9 +35,34 @@
                 <div class="form">
                     <i class="fas fa-search"></i>
                 </div>
+                <div class="log">
+                    <a href="#">تسجيل دخول</a>
+                    <a href="#"> انشاء حساب</a>
+                   </div>
             </nav>
         </div>
     </header>
+    <div class="main">
     <!-- end header -->
+    {{-- start landing --}}
+    {{-- <div class="landing"> --}}
+        <div class="left-landing"></div>
+       {{--  <div class="right-landing"></div> --}}
+    {{-- </div> --}}
+    {{-- end landing --}}
+    {{-- start main --}}
+    
+        <div class="container-box">
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+            <div class="box"> first</div>
+        </div>
 </body>
 </html>
